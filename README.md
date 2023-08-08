@@ -3,7 +3,7 @@
 
 Operators: arithmetic, logical, comparisons.
 
-**Technical task:**
+**Task:**
 
 Repeat what was shown in the lesson: create variables of all types, output them to the log.
 Perform mathematical operations with some of them.
